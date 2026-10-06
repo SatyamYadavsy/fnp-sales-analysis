@@ -86,4 +86,4 @@ The analysis was completed using a provided FNP sales dataset and business probl
 
 The original business requirements and analysis questions are available here:
 
-[View Problem Statement](FNP_Sales_Analysis_Problem_Statement.pdf)
+[View Problem Statement](FNP_Sales_Analysis_Problem_Statement.pdf) 
