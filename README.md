@@ -82,6 +82,8 @@ The project demonstrates how Excel can be used not only for reporting, but also 
 
 ## Project Brief
 
+The analysis was completed using a provided FNP sales dataset and business problem statement. The data preparation, modeling, calculations, dashboard development, analysis, and business insights were performed as part of this portfolio project.
+
 The original business requirements and analysis questions are available here:
 
 [View Problem Statement](FNP_Sales_Analysis_Problem_Statement.pdf)
