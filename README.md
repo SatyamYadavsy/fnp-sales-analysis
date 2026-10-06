@@ -1,5 +1,14 @@
 # FNP Sales Analysis Dashboard
 
+### Interactive Excel Sales Analysis | Power Query | Power Pivot | PivotTables | Measures | Slicers
+
+An end-to-end Excel data analysis project focused on revenue performance, product trends, customer ordering behavior, seasonal demand, geographic performance, and delivery efficiency.
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-green)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-blue)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Data%20Modeling-orange)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-purple)
+
 ## Project Overview
 
 This project analyzes FNP sales data to identify key revenue drivers, customer purchasing patterns, seasonal trends, product performance, geographic demand, and delivery efficiency.
@@ -35,6 +44,18 @@ The dashboard was built in Microsoft Excel using Power Query, Power Pivot, Pivot
 - Correlation Analysis
 - Data Cleaning & Transformation
 - Business Insight Generation
+
+## Project Workflow
+
+**Raw Data → Power Query → Power Pivot → Measures → PivotTables → Interactive Dashboard → Business Insights**
+
+- Cleaned and transformed the raw data using **Power Query**
+- Built the data model and calculations using **Power Pivot**
+- Created KPIs and measures for revenue, orders, AOV, and delivery time
+- Analyzed performance using **PivotTables** and **PivotCharts**
+- Added **slicers and timeline filters** for interactivity
+- Performed correlation analysis between quantity and delivery duration
+- Converted the results into business insights and recommendations
 
 ## Business Questions Answered
 
